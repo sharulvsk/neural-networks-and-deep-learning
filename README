@@ -1,0 +1,1 @@
+ part of a logistic regression model built for image classification (cat vs. non-cat) using a simple neural network mindset. The code is written in Python and uses the NumPy library for numerical computations.
